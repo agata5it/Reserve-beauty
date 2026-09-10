@@ -18,7 +18,7 @@ Aplikacja dedykowana jest branży beauty. Rozwiązuje problem ręcznego umawiani
 
 ## Zastosowane Technologie
 
-**Język po stronie serwera:** PHP
+- **Język po stronie serwera:** PHP
 - **Baza danych:** MySQL / MariaDB
 - **Front-end:** HTML5, CSS3, JavaScript
 - **Kontrola wersji:** Git i GitHub
