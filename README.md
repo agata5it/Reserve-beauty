@@ -6,7 +6,7 @@
 - **Agata Gochnio**
 
 
-## 📋 Opis Systemu i Tematyka
+## Opis Systemu i Tematyka
 
 Aplikacja dedykowana jest branży beauty. Rozwiązuje problem ręcznego umawiania wizyt, automatyzując proces sprawdzania dostępności kosmetyczek oraz zapobiegając nakładaniu się terminów.
 
