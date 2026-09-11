@@ -1,0 +1,12 @@
+**Zalozenia projektu**
+-- aplikacja obsługuje kilka salonów beauty;
+-- klient wybiera salon, usługę, kosmetyczkę, datę i godzinę;
+-- jedna kosmetyczka należy do jednego salonu;
+-- jedna usługa należy do jednego salonu;
+-- kosmetyczka może wykonywać wiele usług;
+-- jedną usługę może wykonywać kilka kosmetyczek;
+-- klient widzi tylko swoje rezerwacje;
+-- kosmetyczka widzi tylko swoje wizyty;
+-- administrator zarządza całością;
+-- anulowanych rezerwacji nie usuwamy z historii;
+-- nieaktywne usługi i kosmetyczki nie są dostępne do nowych rezerwacji.
